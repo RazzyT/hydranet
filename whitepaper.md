@@ -4,7 +4,7 @@ Since the early 1990’s, the Internet as a platform has been the first choice o
 
 As a result, access to the Internet is now part of the leverage that Internet Service Providers (ISPs) have over consumers. As if that wasn’t bad enough, governments now are able to monitor citizens and collect data about them without effort. With consumer protection regulations under constant threat by lobbyists, and the prospect of “Big Brother” watching the activities of Internet users, a new type of Internet is poised to take the scene: one that is truly decentralized, inherently secure, and owned by those who use it.
 
-The current problems facing the Internet
+# The current problems facing the Internet
 To the average user in the United States, the most glaring of the problems that are currently plaguing the Internet is the threat against Net Neutrality. The Electronic Frontier Foundation, a non-profit organization devoted to protecting digital rights, defines Net Neutrality as “the idea that Internet service providers should treat all data that travels over their networks fairly, without improper discrimination in favor of particular apps, sites or services.” 
 
 If Net Neutrality protection laws were overturned, it would allow for such things as Internet ‘fast lanes,’ and premium charges for certain websites and content, not unlike cable television packages. This would be a disaster for content creators who may be unfortunate enough to have their platform sold “for just a extra fee of $X per month!” It has the potential to nickle-and-dime businesses and corporations into paying extra charges so that their traffic won’t be throttled. In addition, It would hurt the consumers by hindering access to the content and information that they want to access.
