@@ -37,7 +37,7 @@ The first and most difficult hurdle of any mesh networking project is finding ot
 
 # Conclusion
 
-The Internet as we use it now is centralized, and subject to control by governments, and those who provide access to it. It is not inherently secure, and users have little control over its structure. This project has the ability to change all of that. It is no small task to overhaul the world’s largest network, but putting the power of the freedom of information access in the hands of the people who use it will be worth the work.
+The Internet as we use it now is centralized, and subject to control by governments and those who provide access to it. It is not inherently secure, and users have little control over its structure. This project has the ability to change all of that. It is no small task to overhaul the world’s largest network, but it all starts with us; "Think Globally, Act Locally." Slowly but surely however, as mesh networks start to spread, they can all connect to each other directly and gradually eliminate their dependance on ISPs to access information.
 
 # Works Cited
 
