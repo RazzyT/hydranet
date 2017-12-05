@@ -51,4 +51,4 @@ New Scientist: Meshnet activists rebuilding the Internet from scratch, 2013, htt
 
 
 
-Last revision 12/1/2017
+Last revision 12/5/2017
