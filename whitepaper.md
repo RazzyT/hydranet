@@ -149,14 +149,21 @@ In conclusion, HydraNet has the potential to be a revolutionary network that cou
 ----------------------------------------------------------------------------------------------------------------------------
 # References
 [1]“Guifi.net Commons Telecommunications Network.” Guifi.net, 2004, guifi.net/en.
+
 [2]Bicket, John, et al. “Architecture and Evaluation of the MIT Roofnet Mesh Network.”MIT.edu, pdos.csail.mit.edu/~rtm/roofnet-b.pdf.
+
 [3]Delisle, Caleb J. “Cjdns.” GitHub, 31 Jan. 2018, github.com/cjdelisle/cjdns.
+
 [4]Anon. “r/Darknetplan.” Reddit, www.reddit.com/r/darknetplan/.
+
 [5]Anon. “OpenWRT.” OpenWRT, 2 Feb. 2017, openwrt.org/.
+
 [6]DeLisle, Caleb James. “SeattleMeshnet/Meshbox.” GitHub, 25 Feb. 2016, github.com/seattlemeshnet/meshbox#cjdns-on-openwrt.
+
 [7]Chroboczek, Juliusz. “Babel.” Babel, 1 Jan. 2011, www.irif.fr/~jch/software/babel/
+
 [8]Freifunk. “B.A.T.M.A.N.” Open-Mesh, 19 Mar. 2018, www.open-mesh.org/.
-[9]
+
 
                                                                                             
 ----------------------------------------------------------------------------------------------------------------------------
