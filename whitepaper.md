@@ -8,43 +8,12 @@ Current Release V1.1 April 12th, 2018
 
 
 # Abstract
-    Over the years, The internet has become an integral part of modern society. In the early days, the internet was just a handful of disorganized BBS systems connecting through telephone landlines. After TCP/IP protocols were invented, the internet “bubble” exploded, far surpassing the capacity of landlines within a matter of years. Soon cable companies, seeing the opportunity of the internet, took advantage of this bandwidth vacuum, and took control of the market quickly and swiftly, dominating the market and establishing virtual monopolies. High cost of entry and other legal and financial barriers prevented innovation and destroyed almost all competition and innovation in the ISP market. The solution, is a lot simpler than many might think. Mesh networks, or an interconnecting networks of individuals, have been around for quite a while, however the mesh network field has mostly been dominated by hobbyists and network enthusiasts. Despite the limited current audience, the technology has marketable applications and almost unlimited consumer use cases.
+Over the years, The internet has become an integral part of modern society. In the early days, the internet was just a handful of disorganized BBS systems connecting through telephone landlines. After TCP/IP protocols were invented, the internet “bubble” exploded, far surpassing the capacity of landlines within a matter of years. Soon cable companies, seeing the opportunity of the internet, took advantage of this bandwidth vacuum, and took control of the market quickly and swiftly, dominating the market and establishing virtual monopolies. High cost of entry and other legal and financial barriers prevented innovation and destroyed almost all competition and innovation in the ISP market. The solution, is a lot simpler than many might think. Mesh networks, or an interconnecting networks of individuals, have been around for quite a while, however the mesh network field has mostly been dominated by hobbyists and network enthusiasts. Despite the limited current audience, the technology has marketable applications and almost unlimited consumer use cases.
 
 
 # Project Goal
-    The end goal of the Hydranet Mesh Networking Initiative is to provide a clear and adaptable framework for an international mesh networking system that will attempt to replace the current centralized internet, with economic incentives and ease of use, previously only found in traditional Internet service models. We will provide hardware and infrastructure to the consumer, and implement services and technologies into the existing cjdns networking protocol, and expand the currently limited community meshes, into a worldwide network of consumers and providers, giving the users of the network choice, speed, and reliability not seen before in traditional providers.
+The end goal of the Hydranet Mesh Networking Initiative is to provide a clear and adaptable framework for an international mesh networking system that will attempt to replace the current centralized internet, with economic incentives and ease of use, previously only found in traditional Internet service models. We will provide hardware and infrastructure to the consumer, and implement services and technologies into the existing cjdns networking protocol, and expand the currently limited community meshes, into a worldwide network of consumers and providers, giving the users of the network choice, speed, and reliability not seen before in traditional providers.
 
-
-|CONTENTS|                                       |CONTENTS|
-----------------------------------------------------------------------------------------------------------------------------
-# Table Of Contents
-I:Introduction…………….…………………………..…………..…….3
-
-II:History…………………………………....………..……………..….5
-
-III:Infrastructure………………………………..……………………...7
-
-IV:Commercialization....……………………..….…………………....8
-
-V:Hardware…………………………………..…....…………………..9
-
-VI:Software………………………….....…………………………….10
-
-VII:Conclusion………………………………………………..……....11
-
-VIII:References………………………………………………………12
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------
-|CONTENTS|                                                                                                       
 
 |INTRODUCTION|                                                                                            
 ----------------------------------------------------------------------------------------------------------------------------
@@ -92,11 +61,11 @@ The community as a whole is still relatively active, and most of the ongoing pro
 
 During the period of time before and after the United States Federal Communications Commission's ruling on Net Neutrality, the mesh networking community received a large surge of attention and new members of the community. The fear of a monopolized and censored internet brought many to a very real and important realization; the only way to bring freedom to the internet, is to cast aside the old system, and innovate, for the future.
     
-    The history of the Hydranet Mesh Net Initiative is an interesting and colorful one. We started as a collective ideal, fueled by the motivation of protecting the internet from the monopolies of cable providers, and the potential violation of net neutrality principles by those providers, if the repeal were to pass. On the subreddit r/darknetmesh people were talking. They were talking about an alternative internet, faster, more efficient, and more reliable than the last, and they were talking with more passion and interest than ever before. 
+The history of the Hydranet Mesh Net Initiative is an interesting and colorful one. We started as a collective ideal, fueled by the motivation of protecting the internet from the monopolies of cable providers, and the potential violation of net neutrality principles by those providers, if the repeal were to pass. On the subreddit r/darknetmesh people were talking. They were talking about an alternative internet, faster, more efficient, and more reliable than the last, and they were talking with more passion and interest than ever before. 
 
-    One fateful post, linking to a Discord server dedicated to the organization of the influx of new members, which would eventually become HydraNet, garnered a lot of attention in the community. The most outspoken developers and contributors, helped shape the direction and goals of this organization drastically. The active and intellectual conversation lead to a rapid advancement of ideas, technology, and the overall knowledge and technical ability of the collective. 
+One fateful post, linking to a Discord server dedicated to the organization of the influx of new members, which would eventually become HydraNet, garnered a lot of attention in the community. The most outspoken developers and contributors, helped shape the direction and goals of this organization drastically. The active and intellectual conversation lead to a rapid advancement of ideas, technology, and the overall knowledge and technical ability of the collective. 
 
-    However, since all developers and contributors were volunteers, and thus worked on their own time, after a month or two, development had gone quite far, and the idea was solidified and technical problems were solved, and because of lack of funding, we did not have the active resources necessary for dedicated software development. 
+However, since all developers and contributors were volunteers, and thus worked on their own time, after a month or two, development had gone quite far, and the idea was solidified and technical problems were solved, and because of lack of funding, we did not have the active resources necessary for dedicated software development. 
 ----------------------------------------------------------------------------------------------------------------------------
 |HISTORY|                                                                                                        
 
@@ -104,15 +73,15 @@ During the period of time before and after the United States Federal Communicati
 ----------------------------------------------------------------------------------------------------------------------------
 # Infrastructure
 
-    The backbone of every network is the infrastructure connecting said network. Traditionally the internet has a very failure prone and rigid infrastructure, in the form of direct connection to an internet service provider, which then connects you to your desired destination. This is a very inefficient system, because there is very limited redundancy and backup.
+The backbone of every network is the infrastructure connecting said network. Traditionally the internet has a very failure prone and rigid infrastructure, in the form of direct connection to an internet service provider, which then connects you to your desired destination. This is a very inefficient system, because there is very limited redundancy and backup.
 
-    The main appeal of a mesh networking system is the failure tolerant and self correcting nature of most networks. If one node goes down, there are three more to take its place. It is almost impossible to lose connectivity, and this also increases the amount of bandwidth and information that can be sent through the system at once.
+The main appeal of a mesh networking system is the failure tolerant and self correcting nature of most networks. If one node goes down, there are three more to take its place. It is almost impossible to lose connectivity, and this also increases the amount of bandwidth and information that can be sent through the system at once.
 
-    Another of the many features of mesh networks is the increased flexibility and room for improvement and innovation. With traditional networks if you want to transfer to a new protocol or use new hardware with higher capabilities, you would have to remove all the old infrastructure and hardware, and then replace it. This is expensive and inefficient; but with mesh networks all the network hardware is interconnecting and self reliant, therefore replacing one piece of infrastructure will not cause downtime for any other hardware. 
+Another of the many features of mesh networks is the increased flexibility and room for improvement and innovation. With traditional networks if you want to transfer to a new protocol or use new hardware with higher capabilities, you would have to remove all the old infrastructure and hardware, and then replace it. This is expensive and inefficient; but with mesh networks all the network hardware is interconnecting and self reliant, therefore replacing one piece of infrastructure will not cause downtime for any other hardware. 
 
-    Along with the self reliance of every node, infrastructure is not limited to high powered hardware, as a large part of the network has the potential to be mobile phone radios, while dedicated antenna can mostly be utilized by home and office applications, as well as dedicated commercial infrastructure.
+Along with the self reliance of every node, infrastructure is not limited to high powered hardware, as a large part of the network has the potential to be mobile phone radios, while dedicated antenna can mostly be utilized by home and office applications, as well as dedicated commercial infrastructure.
 
-    The flexibility of both the market and the network as a whole provides an opportunity for any outcome, depending on market demand. It could be almost completely dominated by mobile nodes, or long range communication could very well be almost entirely supplied by private nodes, it entirely depends on the demand of the market, and the ability to supply, and from which sources are available. This flexibility allows for a sustainable market that can adapt to both consumer and private sector needs.
+The flexibility of both the market and the network as a whole provides an opportunity for any outcome, depending on market demand. It could be almost completely dominated by mobile nodes, or long range communication could very well be almost entirely supplied by private nodes, it entirely depends on the demand of the market, and the ability to supply, and from which sources are available. This flexibility allows for a sustainable market that can adapt to both consumer and private sector needs.
 
 ----------------------------------------------------------------------------------------------------------------------------
 |INFRASTRUCTURE|                                                                                           
@@ -120,13 +89,13 @@ During the period of time before and after the United States Federal Communicati
 |COMMERCIALIZATION|                                                                                   
 ----------------------------------------------------------------------------------------------------------------------------
 # Commercialization
-    Any emerging technology or field most often will need a revenue stream to be able to burst into the mainstream. Internet Service Providers charged for internet service, internet media companies charged for access to services or content. Mesh networks are traditionally peer-to-peer free networks, which is one of the main reasons it hasn’t entered the mainstream. There wasn’t any reason for companies to invest in a new technology if it couldn’t make money. This is where that all changes
+Any emerging technology or field most often will need a revenue stream to be able to burst into the mainstream. Internet Service Providers charged for internet service, internet media companies charged for access to services or content. Mesh networks are traditionally peer-to-peer free networks, which is one of the main reasons it hasn’t entered the mainstream. There wasn’t any reason for companies to invest in a new technology if it couldn’t make money. This is where that all changes
     
-    The main business model of the HydraNet mesh network is a bandwidth based monetization model. When setting up your node you can decide on a fixed, or variable, per gigabyte price. This price is only applied when your node is the only other node in between the two start and destination nodes. When there are multiple nodes in between the start and destination nodes, an algorithm averages the price of each of the nodes preferred rate, while also taking into account the amount of nodes the data is being transferred through. This calculated price is then split between the start and destination node, and the revenue is split between the intermediaries.
+The main business model of the HydraNet mesh network is a bandwidth based monetization model. When setting up your node you can decide on a fixed, or variable, per gigabyte price. This price is only applied when your node is the only other node in between the two start and destination nodes. When there are multiple nodes in between the start and destination nodes, an algorithm averages the price of each of the nodes preferred rate, while also taking into account the amount of nodes the data is being transferred through. This calculated price is then split between the start and destination node, and the revenue is split between the intermediaries.
 
-    Another source of revenue, is the sale of, and maintenance of hardware and software designed to connect to the HydraNet mesh network. This can range anywhere from producing custom software and clients to interface with the network, to developing custom hardware or consumer ready devices. 
+Another source of revenue, is the sale of, and maintenance of hardware and software designed to connect to the HydraNet mesh network. This can range anywhere from producing custom software and clients to interface with the network, to developing custom hardware or consumer ready devices. 
 
-    The development team will be funded and upheld by the revenue generated by premium first party routers, antennas, kits, and premium/enterprise clients. The core software, firmware, and hardware will remain open source, allowing for third party development and innovation, however premium first party accessories, hardware, and software will be closed source proprietary software, with intention for use by enthusiasts, enterprise, and large scale infrastructural use cases, however can be purchased by casual consumers.
+The development team will be funded and upheld by the revenue generated by premium first party routers, antennas, kits, and premium/enterprise clients. The core software, firmware, and hardware will remain open source, allowing for third party development and innovation, however premium first party accessories, hardware, and software will be closed source proprietary software, with intention for use by enthusiasts, enterprise, and large scale infrastructural use cases, however can be purchased by casual consumers.
 
 
 
@@ -136,32 +105,32 @@ During the period of time before and after the United States Federal Communicati
 |HARDWARE|                                                                                                    
 ----------------------------------------------------------------------------------------------------------------------------
 # Hardware
-    There is a few classifications of the standard hardware configurations. Firstly there is long distance infrastructure. Secondly we have local area nodes. Lastly we have mobile devices. These hardware configurations fill a variety of roles, each with their own specific desired use cases. These are the main configurations, however because of the flexibility of the open source options the configurations that could possibly be in use is almost infinite.
+There is a few classifications of the standard hardware configurations. Firstly there is long distance infrastructure. Secondly we have local area nodes. Lastly we have mobile devices. These hardware configurations fill a variety of roles, each with their own specific desired use cases. These are the main configurations, however because of the flexibility of the open source options the configurations that could possibly be in use is almost infinite.
 
-    The first of the main hardware configurations is long distance infrastructure. This mostly consists of long distance, high bandwidth, communications devices. These can range from large antennas for interstate communications, to undersea cables, and even low orbit satellites depending on the budgeting of the provider. These are mostly used for intercity, interstate, and even international connection, that connects one regional meshes with other regional meshes.
+The first of the main hardware configurations is long distance infrastructure. This mostly consists of long distance, high bandwidth, communications devices. These can range from large antennas for interstate communications, to undersea cables, and even low orbit satellites depending on the budgeting of the provider. These are mostly used for intercity, interstate, and even international connection, that connects one regional meshes with other regional meshes.
 
-    The second of the main hardware configurations is local area nodes. These consist of smaller wireless antennas, and personal wireless routers. These connect local nodes with others in the surrounding area, and possibly in neighboring cities if the connection is ideal. These are used for personal and localized enterprise use, and mostly consists of a high gain antenna connected to a router running an OpenWRT[5] version of CJDNS[6] running HydraNet software.
+The second of the main hardware configurations is local area nodes. These consist of smaller wireless antennas, and personal wireless routers. These connect local nodes with others in the surrounding area, and possibly in neighboring cities if the connection is ideal. These are used for personal and localized enterprise use, and mostly consists of a high gain antenna connected to a router running an OpenWRT[5] version of CJDNS[6] running HydraNet software.
 
-    The third of the main hardware configurations is the mobile device classification. This consists of extremely short range signals that connect to other mobile devices, as well as the local area nodes, and sometimes long distance nodes. This uses a mobile version of a HydraNet client, and utilizes the radios found inside of mobile devices, to connect to the desired nodes around them. This can be used for short range communication, such as phone calls and text messaging, as well as multimedia applications typically found in use in mobile devices.
+The third of the main hardware configurations is the mobile device classification. This consists of extremely short range signals that connect to other mobile devices, as well as the local area nodes, and sometimes long distance nodes. This uses a mobile version of a HydraNet client, and utilizes the radios found inside of mobile devices, to connect to the desired nodes around them. This can be used for short range communication, such as phone calls and text messaging, as well as multimedia applications typically found in use in mobile devices.
 
 
-    All of these hardware configurations combine to create an extensive and adaptable network that can take many shapes, sizes, and configurations. 
+All of these hardware configurations combine to create an extensive and adaptable network that can take many shapes, sizes, and configurations. 
 ----------------------------------------------------------------------------------------------------------------------------
 |HARDWARE|                                                                                                         
 |SOFTWARE|                                                                                                      
 ----------------------------------------------------------------------------------------------------------------------------
 # Software
-    The software of choice for mesh networking enthusiasts has varied throughout the years. Some of these choices include Babel,[7] B.A.T.M.A.N,[8] and of course the current prevailing king of mesh nets, CJDNS. 
+The software of choice for mesh networking enthusiasts has varied throughout the years. Some of these choices include Babel,[7] B.A.T.M.A.N,[8] and of course the current prevailing king of mesh nets, CJDNS. 
 
-    The HydraNet interface will be a streamlined version of the CJDNS protocol, adapted for usability, bandwidth management and monetization, and other notable features. The interface allows for ease of use, compatibility, and monetization never before seen in large scale mesh networking projects.
+The HydraNet interface will be a streamlined version of the CJDNS protocol, adapted for usability, bandwidth management and monetization, and other notable features. The interface allows for ease of use, compatibility, and monetization never before seen in large scale mesh networking projects.
 
-    One of the main software interfaces being implemented is a dedicated node client. These clients would install on OpenWRT compatible routers, and could be adapted to other enterprise hardware, and also are available for standalone antenna connections to personal computers, using a software package for your desired operating systems.
+One of the main software interfaces being implemented is a dedicated node client. These clients would install on OpenWRT compatible routers, and could be adapted to other enterprise hardware, and also are available for standalone antenna connections to personal computers, using a software package for your desired operating systems.
 
-    The second software interface is designed for mobile platforms. It is designed for the use of mobile radios and touchscreen displays. The protocols and features are virtually identical to the same interface from the previous use cases, simply adapted for use for mobile devices.
+The second software interface is designed for mobile platforms. It is designed for the use of mobile radios and touchscreen displays. The protocols and features are virtually identical to the same interface from the previous use cases, simply adapted for use for mobile devices.
 
-    All of these clients and interfaces connect together and form a powerful network. The streamlined programs allow for maximum interconnectability and compatibility. The open source nature of the basic interface and software, the ability for improvements to the clients and software is endless, and said improvements therefore improve the network as a whole.
+All of these clients and interfaces connect together and form a powerful network. The streamlined programs allow for maximum interconnectability and compatibility. The open source nature of the basic interface and software, the ability for improvements to the clients and software is endless, and said improvements therefore improve the network as a whole.
 
-    There is possibility for multiple channels and providers for client software and interfaces. A few of these possibilities include both first party premium and open source, and third party premium and open source software. This allows for the possibility of nonprofit, and commercial providers of software.
+There is possibility for multiple channels and providers for client software and interfaces. A few of these possibilities include both first party premium and open source, and third party premium and open source software. This allows for the possibility of nonprofit, and commercial providers of software.
 
     
 
@@ -173,14 +142,14 @@ During the period of time before and after the United States Federal Communicati
 |CONCLUSION|                                                                                                  
 ----------------------------------------------------------------------------------------------------------------------------
 # Conclusion
-    With the proper funding, and public adoption, mesh networking, and more specifically HydraNet, could prove to be an effective and reliable alternative to traditional networking solutions. 
+With the proper funding, and public adoption, mesh networking, and more specifically HydraNet, could prove to be an effective and reliable alternative to traditional networking solutions. 
 
-    The simple open ended nature of the network allows for endless possibilities of hardware and software end user configurations. The commercialization options for both end users and commercial operations are vast and adaptable to consumer and network needs.
+The simple open ended nature of the network allows for endless possibilities of hardware and software end user configurations. The commercialization options for both end users and commercial operations are vast and adaptable to consumer and network needs.
 
-    The decentralized nature allows for privacy and freedom shown by few networks in the past. Previous privacy issues shown by providers and governments will be much more avoidable with this network.
+The decentralized nature allows for privacy and freedom shown by few networks in the past. Previous privacy issues shown by providers and governments will be much more avoidable with this network.
 
 
-    In conclusion, HydraNet has the potential to be a revolutionary network that could change the way we communicate.
+In conclusion, HydraNet has the potential to be a revolutionary network that could change the way we communicate.
 ----------------------------------------------------------------------------------------------------------------------------
 |CONCLUSION|                                                                                                
 |REFERENCES|                                                                                                
