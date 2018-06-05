@@ -4,7 +4,7 @@ Release Version V1.0 Written By Zapotec0
 
 Release Version V1.1 Written By Coleman Haas
 
-Current Release V1.1 April 12th, 2018
+Current Release V1.1 June 6th, 2018
 
 
 # Abstract
@@ -148,3 +148,4 @@ In conclusion, HydraNet has the potential to be a revolutionary network that cou
 
                                                                                             
 ----------------------------------------------------------------------------------------------------------------------------
+Last Update 6/05/18
