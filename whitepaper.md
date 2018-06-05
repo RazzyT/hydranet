@@ -1,15 +1,17 @@
-HydraNet: MeshNet Solutions
+# HydraNet: MeshNet Solutions
 
 Release Version V1.0 Written By Zapotec0
+
 Release Version V1.1 Written By Coleman Haas
+
 Current Release V1.1 April 12th, 2018
 
 
-#Abstract
+# Abstract
     Over the years, The internet has become an integral part of modern society. In the early days, the internet was just a handful of disorganized BBS systems connecting through telephone landlines. After TCP/IP protocols were invented, the internet “bubble” exploded, far surpassing the capacity of landlines within a matter of years. Soon cable companies, seeing the opportunity of the internet, took advantage of this bandwidth vacuum, and took control of the market quickly and swiftly, dominating the market and establishing virtual monopolies. High cost of entry and other legal and financial barriers prevented innovation and destroyed almost all competition and innovation in the ISP market. The solution, is a lot simpler than many might think. Mesh networks, or an interconnecting networks of individuals, have been around for quite a while, however the mesh network field has mostly been dominated by hobbyists and network enthusiasts. Despite the limited current audience, the technology has marketable applications and almost unlimited consumer use cases.
 
 
-#Project Goal
+# Project Goal
     The end goal of the Hydranet Mesh Networking Initiative is to provide a clear and adaptable framework for an international mesh networking system that will attempt to replace the current centralized internet, with economic incentives and ease of use, previously only found in traditional Internet service models. We will provide hardware and infrastructure to the consumer, and implement services and technologies into the existing cjdns networking protocol, and expand the currently limited community meshes, into a worldwide network of consumers and providers, giving the users of the network choice, speed, and reliability not seen before in traditional providers.
 
 
@@ -42,9 +44,9 @@ VIII:References………………………………………………………12
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-|CONTENTS|                                                                                                        |CONTENTS|
+|CONTENTS|                                                                                                       
 
-|INTRODUCTION|                                                                                                |INTRODUCTION|
+|INTRODUCTION|                                                                                            
 ----------------------------------------------------------------------------------------------------------------------------
 # Introduction
 
@@ -54,13 +56,7 @@ The nodes consist of both mobile devices with built in radios, such as smartphon
 
 Users or companies running nodes have the option for incentivisation for their bandwidth. You can either choose to offer your bandwidth, and subsequently a path through your node, for a price, or free of charge. This provides incentives from both users and companies to innovate and increase quality of access, which in turn increases not just network efficiency, but also workplace and personal efficiency. The model for the incentivisation program is very simple, and economically allows for a healthy free market.
 
-----------------------------------------------------------------------------------------------------------------------------
-|INTRODUCTION|                                                                                                |INTRODUCTION|
-
-|INTRODUCTION|                                                                                                |INTRODUCTION|
-----------------------------------------------------------------------------------------------------------------------------
-
- Users can run their traffic through others nodes to find the fastest and most efficient path to their final destination. The nodes that this data is being routed through are compensated by the recipient and the host of the data proportionally using an automated payment system using cryptocurrencies. 
+Users can run their traffic through others nodes to find the fastest and most efficient path to their final destination. The nodes that this data is being routed through are compensated by the recipient and the host of the data proportionally using an automated payment system using cryptocurrencies. 
 
 Both the host and the recipient can choose priorities for selecting a data path. They can select nodes based on a few factors, speed, reliability, cost, and latency. The recipient’s preference settings will be used for the initial request of data, and the host’s preference settings will be used for the data to be transferred back to the recipient. The cost of the bandwidth shall be split proportionally between the host and the recipient.
 
@@ -77,9 +73,9 @@ The network runs off of an adapted version of the cjdns protocol, specifically m
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-|INTRODUCTION|                                                                                                |INTRODUCTION|
+|INTRODUCTION|                                                                                            
 
-|HISTORY|                                                                                                          |HISTORY|
+|HISTORY|                                                                                                     
 ----------------------------------------------------------------------------------------------------------------------------
 # History
 
@@ -92,11 +88,6 @@ The most recent and prevailing project has been the protocol cjdns[3] developed 
 
 The origins of the current alternative internet movement can be linked back to the subreddit r/darknetplan.[4] The Hyperboria network can be linked back to the r/darknetplan subreddit, and the original volunteer developers of Hydranet can be linked back to the subreddit.
 
-
-----------------------------------------------------------------------------------------------------------------------------
-|HISTORY|                                                                                                          |HISTORY|
-|HISTORY|                                                                                                          |HISTORY|
-----------------------------------------------------------------------------------------------------------------------------
 The community as a whole is still relatively active, and most of the ongoing projects organize and communicate offsite. The main hurdle preventing these ambitious projects from reaching mainstream adoption however was lack of commercial viability. These projects were never intended to make money, and the lack of any revenue streams caused these projects to stay in a niche, slowly growing network of enthusiasts. 
 
 During the period of time before and after the United States Federal Communications Commission's ruling on Net Neutrality, the mesh networking community received a large surge of attention and new members of the community. The fear of a monopolized and censored internet brought many to a very real and important realization; the only way to bring freedom to the internet, is to cast aside the old system, and innovate, for the future.
@@ -107,9 +98,9 @@ During the period of time before and after the United States Federal Communicati
 
     However, since all developers and contributors were volunteers, and thus worked on their own time, after a month or two, development had gone quite far, and the idea was solidified and technical problems were solved, and because of lack of funding, we did not have the active resources necessary for dedicated software development. 
 ----------------------------------------------------------------------------------------------------------------------------
-|HISTORY|                                                                                                           |HISTORY|
+|HISTORY|                                                                                                        
 
-|INFRASTRUCTURE|                                                                                             |INFRASTRUCTURE|
+|INFRASTRUCTURE|                                                                                     
 ----------------------------------------------------------------------------------------------------------------------------
 # Infrastructure
 
@@ -124,9 +115,9 @@ During the period of time before and after the United States Federal Communicati
     The flexibility of both the market and the network as a whole provides an opportunity for any outcome, depending on market demand. It could be almost completely dominated by mobile nodes, or long range communication could very well be almost entirely supplied by private nodes, it entirely depends on the demand of the market, and the ability to supply, and from which sources are available. This flexibility allows for a sustainable market that can adapt to both consumer and private sector needs.
 
 ----------------------------------------------------------------------------------------------------------------------------
-|INFRASTRUCTURE|                                                                                            |INFRASTRUCTURE|
+|INFRASTRUCTURE|                                                                                           
 
-|COMMERCIALIZATION|                                                                                      |COMMERCIALIZATION|
+|COMMERCIALIZATION|                                                                                   
 ----------------------------------------------------------------------------------------------------------------------------
 # Commercialization
     Any emerging technology or field most often will need a revenue stream to be able to burst into the mainstream. Internet Service Providers charged for internet service, internet media companies charged for access to services or content. Mesh networks are traditionally peer-to-peer free networks, which is one of the main reasons it hasn’t entered the mainstream. There wasn’t any reason for companies to invest in a new technology if it couldn’t make money. This is where that all changes
@@ -140,9 +131,9 @@ During the period of time before and after the United States Federal Communicati
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-|COMMERCIALIZATION|                                                                                       |COMMERCIALIZATION|
+|COMMERCIALIZATION|                                                                                     
 
-|HARDWARE|                                                                                                        |HARDWARE|
+|HARDWARE|                                                                                                    
 ----------------------------------------------------------------------------------------------------------------------------
 # Hardware
     There is a few classifications of the standard hardware configurations. Firstly there is long distance infrastructure. Secondly we have local area nodes. Lastly we have mobile devices. These hardware configurations fill a variety of roles, each with their own specific desired use cases. These are the main configurations, however because of the flexibility of the open source options the configurations that could possibly be in use is almost infinite.
@@ -156,8 +147,8 @@ During the period of time before and after the United States Federal Communicati
 
     All of these hardware configurations combine to create an extensive and adaptable network that can take many shapes, sizes, and configurations. 
 ----------------------------------------------------------------------------------------------------------------------------
-|HARDWARE|                                                                                                         |HARDWARE|
-|SOFTWARE|                                                                                                         |SOFTWARE|
+|HARDWARE|                                                                                                         
+|SOFTWARE|                                                                                                      
 ----------------------------------------------------------------------------------------------------------------------------
 # Software
     The software of choice for mesh networking enthusiasts has varied throughout the years. Some of these choices include Babel,[7] B.A.T.M.A.N,[8] and of course the current prevailing king of mesh nets, CJDNS. 
@@ -175,11 +166,11 @@ During the period of time before and after the United States Federal Communicati
     
 
 ----------------------------------------------------------------------------------------------------------------------------
-|SOFTWARE|                                                                                                        |SOFTWARE|
+|SOFTWARE|                                                                                                     
 
 
 
-|CONCLUSION|                                                                                                    |CONCLUSION|
+|CONCLUSION|                                                                                                  
 ----------------------------------------------------------------------------------------------------------------------------
 # Conclusion
     With the proper funding, and public adoption, mesh networking, and more specifically HydraNet, could prove to be an effective and reliable alternative to traditional networking solutions. 
@@ -191,8 +182,8 @@ During the period of time before and after the United States Federal Communicati
 
     In conclusion, HydraNet has the potential to be a revolutionary network that could change the way we communicate.
 ----------------------------------------------------------------------------------------------------------------------------
-|CONCLUSION|                                                                                                    |CONCLUSION|
-|REFERENCES|                                                                                                    |REFERENCES|
+|CONCLUSION|                                                                                                
+|REFERENCES|                                                                                                
 ----------------------------------------------------------------------------------------------------------------------------
 [1]“Guifi.net Commons Telecommunications Network.” Guifi.net, 2004, guifi.net/en.
 [2]Bicket, John, et al. “Architecture and Evaluation of the MIT Roofnet Mesh Network.”MIT.edu, pdos.csail.mit.edu/~rtm/roofnet-b.pdf.
@@ -205,5 +196,5 @@ During the period of time before and after the United States Federal Communicati
 [9]
 
 
-|REFERENCES|                                                                                                    |REFERENCES|
+|REFERENCES|                                                                                                
 ----------------------------------------------------------------------------------------------------------------------------
