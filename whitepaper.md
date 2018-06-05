@@ -131,7 +131,7 @@ In conclusion, HydraNet has the potential to be a revolutionary network that cou
 # References
 [1]“Guifi.net Commons Telecommunications Network.” Guifi.net, 2004, www.guifi.net/en
 
-[2]Bicket, John, et al. “Architecture and Evaluation of the MIT Roofnet Mesh Network.”MIT.edu, www.pdos.csail.mit.edu/~rtm/roofnet-b.pdf
+[2]Bicket, John, et al. “Architecture and Evaluation of the MIT Roofnet Mesh Network.”MIT.edu, https://pdos.csail.mit.edu/~rtm/roofnet-b.pdf
 
 [3]Delisle, Caleb J. “Cjdns.” GitHub, 31 Jan. 2018, www.github.com/cjdelisle/cjdns
 
