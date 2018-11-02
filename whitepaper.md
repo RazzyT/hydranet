@@ -2,7 +2,7 @@
 
 Release Version V1.0 Written By Zapotec0
 
-Release Version V1.1 Written By Coleman Haas
+Release Version V1.1 Written By Kai Haas
 
 Current Release V1.1 June 6th, 2018
 
